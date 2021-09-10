@@ -6,7 +6,7 @@ import (
 	"time"
 
 	zmq "github.com/pebbe/zmq4"
-	"github.com/zeromq/gyre/zre/msg"
+	"github.com/FLAGlab/gyre/zre/msg"
 )
 
 var (

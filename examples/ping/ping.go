@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/zeromq/gyre"
+	"github.com/FLAGlab/gyre"
 
 	"flag"
 	"log"

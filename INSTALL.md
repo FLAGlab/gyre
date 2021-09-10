@@ -43,18 +43,18 @@ Test the installation - You need at least version 1.2 example wont work with 1.0
     export GOPATH=~/gopath
     export PATH=$GOROOT/bin:$GOPATH/bin:$PATH
 
-    go get github.com/zeromq/gyre
+    go get github.com/FLAGlab/gyre
 
 ## Example
 
 Run following command in a terminal:
 
-    cd $GOPATH/src/github.com/zeromq/gyre/
+    cd $GOPATH/src/github.com/FLAGlab/gyre/
     go run examples/chat/chat.go -name yourname
 
 Or
 
-    git clone https://github.com/zeromq/gyre
+    git clone https://github.com/FLAGlab/gyre
     cd gyre
     go run examples/chat/chat.go -name yourname
 

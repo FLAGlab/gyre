@@ -28,8 +28,8 @@ install:
   - sudo ldconfig
   - cd ..
   - go get github.com/pebbe/zmq4
-  - go get github.com/zeromq/gyre/zre/msg
-  - go get github.com/zeromq/gyre/beacon
+  - go get github.com/FLAGlab/gyre/zre/msg
+  - go get github.com/FLAGlab/gyre/beacon
   - go get golang.org/x/net/ipv4
   - go get golang.org/x/net/ipv6
   - go get github.com/armen/goviral/zgossip

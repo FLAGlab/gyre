@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zeromq/gyre"
+	"github.com/FLAGlab/gyre"
 )
 
 var (

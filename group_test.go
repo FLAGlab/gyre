@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	zmq "github.com/pebbe/zmq4"
-	"github.com/zeromq/gyre/zre/msg"
+	"github.com/FLAGlab/gyre/zre/msg"
 )
 
 func TestGroup(t *testing.T) {

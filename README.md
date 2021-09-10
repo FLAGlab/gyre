@@ -1,4 +1,4 @@
-Gyre [![GoDoc](https://godoc.org/github.com/zeromq/gyre?status.png)](https://godoc.org/github.com/zeromq/gyre) [![Build Status](https://travis-ci.org/zeromq/gyre.svg?branch=master)](https://travis-ci.org/zeromq/gyre)
+Gyre [![GoDoc](https://godoc.org/github.com/FLAGlab/gyre?status.png)](https://godoc.org/github.com/FLAGlab/gyre) [![Build Status](https://travis-ci.org/zeromq/gyre.svg?branch=master)](https://travis-ci.org/zeromq/gyre)
 ====
 
 This is a Golang port of [Zyre](zyre.org) 2.0, an open-source framework for proximity-based
@@ -45,7 +45,7 @@ And repeat the above command in another terminal, the chat instances will discov
 
 ## Api
 
-View the API docs [![GoDoc](https://godoc.org/github.com/zeromq/gyre?status.png)](https://godoc.org/github.com/zeromq/gyre)
+View the API docs [![GoDoc](https://godoc.org/github.com/FLAGlab/gyre?status.png)](https://godoc.org/github.com/FLAGlab/gyre)
 
 ## Project Organization
 
@@ -53,4 +53,4 @@ Gyre is owned by all its authors and contributors. This is an open source
 project licensed under the LGPLv3. To contribute to Gyre please read the
 [C4.1 process](http://rfc.zeromq.org/spec:22) that we use.
 
-To report an issue, use the [Gyre issue tracker](https://github.com/zeromq/gyre/issues) at github.com.
+To report an issue, use the [Gyre issue tracker](https://github.com/FLAGlab/gyre/issues) at github.com.
